@@ -19,6 +19,8 @@ Additionally, the feet or legs extend the full length of the Anthead hotend moun
 
 ![Anthead Spacer 4SC Mirror View](./images/Anthead.Spacer%204SC.7a-mirror.PNG)
 
+![Anthead Spacer Installation](./images/Screenshot%202026-06-30%20150728.png)
+
 ## Installation
 
 [Add installation steps here]
